@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/speedweb/static/css/main.c0c91f7e.css",
+    "main.js": "/speedweb/static/js/main.649f613b.js",
+    "static/media/quese.png": "/speedweb/static/media/quese.2bbc8ab3375ad7c3660a.png",
+    "static/media/sabor.png": "/speedweb/static/media/sabor.aa7cc8ec2db4029a7b6b.png",
+    "static/media/imag1.png": "/speedweb/static/media/imag1.cd7264b0972cc89f1ce3.png",
+    "static/media/speed.png": "/speedweb/static/media/speed.bcc7508c9150cfe0620e.png",
+    "static/media/whatsapp-fill.svg": "/speedweb/static/media/whatsapp-fill.f7f284344fbf9e0713346e6fec82fa29.svg",
+    "index.html": "/speedweb/index.html",
+    "main.c0c91f7e.css.map": "/speedweb/static/css/main.c0c91f7e.css.map",
+    "main.649f613b.js.map": "/speedweb/static/js/main.649f613b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c91f7e.css",
+    "static/js/main.649f613b.js"
+  ]
+}
