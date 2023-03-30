@@ -22,7 +22,7 @@ const Footer = () => {
       <span>@ 2023 Developers Web Luis E. diaz</span>
       <span>SpeedWeb</span>
       <SocialIcons Icons={Icons}/>
-      <a className='text-center text-teal-400 text-2xl ' href='/'>HOME</a>
+      <a className='text-center text-teal-400 text-2xl ' href='Seccion1'>HOME</a>
       </div>
   </footer>
 }
