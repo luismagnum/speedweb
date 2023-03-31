@@ -35,6 +35,11 @@
   @apply text-orange-500 text-orange-200;
 }
 
+.fondo{
+ background-image: url("https://t3.ftcdn.net/jpg/05/65/96/56/240_F_565965639_dZBDOyf2wkK8SGmaAkJz3zme37mjgaRm.jpg");
+ background-size: cover;
+}
+
 
 body {
   overflow-x: hidden;

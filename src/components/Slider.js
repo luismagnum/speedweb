@@ -9,7 +9,7 @@ import 'swiper/css';
 const Slider = () => {
   return (
     <div className='bg-[#00052a] text-white flex items-center justify-center'id='Seccion2'>
-    <div className='text-white max max-w-5xl'>
+    <div className='text-white max-w-5xl'>
       <Swiper
       spaceBetween={40}
       slidesPerView={3}
