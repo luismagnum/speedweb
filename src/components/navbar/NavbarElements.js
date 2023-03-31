@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
    width:100%;
-   height:70px;
+   height:80px;
    background-color:#23394d;
 
 `;
@@ -26,8 +26,7 @@ export const LogoContainer = styled.div`
    font-size: 1.9rem;
    font-bold;
    font-family: Poppins;
-   color: #00c6c5;
-
+   color: #ff6d00;
 
    p{
       &:nth-child(2){
@@ -39,7 +38,7 @@ export const LogoContainer = styled.div`
       }
    }
    svg{
-      fill: #00c6c5;
+      fill:#00c6c5;
       margin-rigth: 0.5rem;
    }
 `;

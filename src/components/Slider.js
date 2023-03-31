@@ -11,7 +11,7 @@ const Slider = () => {
     <div className='bg-[#00052a] text-white flex items-center justify-center'id='Seccion2'>
     <div className='text-white max max-w-5xl'>
       <Swiper
-      spaceBetween={50}
+      spaceBetween={40}
       slidesPerView={3}
       onSlideChange={() => console.log('slide change')}
       onSwiper={(swiper) => console.log(swiper)}

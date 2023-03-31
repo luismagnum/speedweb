@@ -18,7 +18,7 @@ export const EMPRESA = [
 ];
 
 export const CONTACTO = [
-    {name: "speedweb@gmail.com", link:"#"},
+    {name: "speedweb023@gmail.com", link:"#"},
     {name: "Villa regina" , link: "#"},
     {name: "Argentina", link:"#"},
 ];

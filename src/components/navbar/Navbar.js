@@ -20,7 +20,8 @@ const Navbar = () => {
         <Wraper>
           <IconContext.Provider value = {{style: {fontSize:"2em"}}}>
             <LogoContainer>
-              <p>SPEED WEB</p>
+             <p>SpeedWeb</p>
+              <p>Paginas Web</p>
             </LogoContainer>
               <MobileIcon onClick={() => setShowMobileMenu(!showMobileMenu)}>
               {showMobileMenu ? <FaTimes /> : <FaBars />}
