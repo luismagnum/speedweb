@@ -8,8 +8,8 @@
 }
 
 .sticky{
-  position: sticky;
-  top: 25%;
+  position:fixed;
+  top: 90px;
 }
 
 
