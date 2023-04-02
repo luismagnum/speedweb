@@ -1,8 +1,8 @@
 {
-  "name": "www.speedweb.store",
+  "name": "speedweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luismagnum.github.io/speedweb/",
+  "homepage": "https://www.speedweb.store",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
