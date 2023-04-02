@@ -11,6 +11,8 @@ export const Wraper = styled.div`
     max-width:1300px;
     heigth:100%;
     display:flex;
+    font-family: Poppins;
+    font-weight:bold;
     flex-wrap: wrap;
     justify-content:space-between;
     margin:auto;
