@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.563511f3.css",
-    "main.js": "/static/js/main.89c39b49.js",
+    "main.js": "/static/js/main.c2627017.js",
     "static/media/quese.png": "/static/media/quese.2bbc8ab3375ad7c3660a.png",
     "static/media/sabor.png": "/static/media/sabor.aa7cc8ec2db4029a7b6b.png",
     "static/media/speed.png": "/static/media/speed.bcc7508c9150cfe0620e.png",
     "static/media/whatsapp-fill.svg": "/static/media/whatsapp-fill.f7f284344fbf9e0713346e6fec82fa29.svg",
     "index.html": "/index.html",
     "main.563511f3.css.map": "/static/css/main.563511f3.css.map",
-    "main.89c39b49.js.map": "/static/js/main.89c39b49.js.map"
+    "main.c2627017.js.map": "/static/js/main.c2627017.js.map"
   },
   "entrypoints": [
     "static/css/main.563511f3.css",
-    "static/js/main.89c39b49.js"
+    "static/js/main.c2627017.js"
   ]
 }
