@@ -23,7 +23,7 @@ const Footer = () => {
       <span>SpeedWeb</span>
       <SocialIcons Icons={Icons}/>
       <button>
-      <a className='text-center text-teal-400 text-2xl slide-top' href='#Seccion1'>HOME</a>
+      <a className='text-center text-teal-400 font-semibold text-2xl hover:text-teal-600' href='#Seccion1'>HOME</a>
       </button>
       </div>
   </footer>
