@@ -28,7 +28,7 @@ const Slider = () => {
                  Nuestra empresa de desarrollo web te guiará en todo el proceso.
                  Somos especialistas en generar soluciones. Soporte Tecnico.
                 </p>
-                <div className='bg-orange-600 skill-level'>⬅</div>
+                <div className='bg-orange-600 skill-level'>1</div>
             </div>
         </div>
       </SwiperSlide>
@@ -44,7 +44,7 @@ const Slider = () => {
                 Desarrollamos aplicaciones de alta calidad, con un enfoque único
                 orientado al diseño y la buena funcionalidad.
                 </p>
-                <div className='bg-orange-600 skill-level'>⬅➡</div>
+                <div className='bg-orange-600 skill-level'>2</div>
             </div>
         </div>
       </SwiperSlide>
@@ -60,7 +60,7 @@ const Slider = () => {
                  mercado y objetivos de nuestros clientes.
                  Somos expertos en crear páginas web Premium con las últimas tecnologías.
                 </p>
-                <div className='bg-orange-600 skill-level'>⬅➡</div>
+                <div className='bg-orange-600 skill-level'>3</div>
             </div>
         </div>
       </SwiperSlide>
@@ -76,7 +76,7 @@ const Slider = () => {
                 diseño creativo, tu empresa puede sacar un provecho de internet
                 MUY superior al que imaginas posible.
                 </p>
-                <div className='bg-orange-600 skill-level'>⬅➡</div>
+                <div className='bg-orange-600 skill-level'>4</div>
             </div>
         </div>
       </SwiperSlide>
@@ -92,7 +92,7 @@ const Slider = () => {
                 plataformas. Tus paginas web se verán con un diseño único y se adaptará
                  a la plataforma en la que se visualice. 
                 </p>
-                <div className='bg-orange-600 skill-level'>➡</div>
+                <div className='bg-orange-600 skill-level'>5</div>
             </div>
         </div>
       </SwiperSlide>
