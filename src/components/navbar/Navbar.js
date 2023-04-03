@@ -2,7 +2,6 @@ import React from 'react';
 import { useState } from 'react';
 import { Container,LogoContainer,Wraper,Menu, MenuItem, MenuItemLink, MobileIcon } from './NavbarElements';
 import { IconContext } from 'react-icons';
-import speed from '../../assets/imagenes/speed.png';
 
 import {
   FaBars,
