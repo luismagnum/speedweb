@@ -30,7 +30,7 @@
 }
 
 .card .skill-level{
-  @apply border-2 border-gray-200 font-bold text-white min-w-[3.5rem] min-h-[3.5rem] grid place-items-center rounded-full max-w-[3.5rem] absolute -right-2.5 scale-0;
+  @apply border-2 border-gray-200 font-bold text-white min-w-[3rem] min-h-[3rem] grid place-items-center rounded-full max-w-[3rem] absolute -right-2.5 scale-0;
 }
 
 .card .skill-level{
