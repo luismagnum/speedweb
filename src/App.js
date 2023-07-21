@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from '../components/navba/Navbar';
+import Navbar from '.../components/navba/Navbar';
 import Hero from '../src/components/Hero';
 import Slider from './components/Slider';
 import Proyects from './components/Proyects';
