@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/speedweb/static/css/main.e5e42ed2.css",
-    "main.js": "/speedweb/static/js/main.e92f3881.js",
+    "main.css": "/speedweb/static/css/main.5c258109.css",
+    "main.js": "/speedweb/static/js/main.eb03f2db.js",
     "static/media/quese.png": "/speedweb/static/media/quese.2bbc8ab3375ad7c3660a.png",
     "static/media/sabor.png": "/speedweb/static/media/sabor.aa7cc8ec2db4029a7b6b.png",
     "static/media/logospeed.png": "/speedweb/static/media/logospeed.d6b5e4ddbab2dd19d411.png",
     "static/media/speed.png": "/speedweb/static/media/speed.bcc7508c9150cfe0620e.png",
     "static/media/whatsapp-fill.svg": "/speedweb/static/media/whatsapp-fill.f7f284344fbf9e0713346e6fec82fa29.svg",
     "index.html": "/speedweb/index.html",
-    "main.e5e42ed2.css.map": "/speedweb/static/css/main.e5e42ed2.css.map",
-    "main.e92f3881.js.map": "/speedweb/static/js/main.e92f3881.js.map"
+    "main.5c258109.css.map": "/speedweb/static/css/main.5c258109.css.map",
+    "main.eb03f2db.js.map": "/speedweb/static/js/main.eb03f2db.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5e42ed2.css",
-    "static/js/main.e92f3881.js"
+    "static/css/main.5c258109.css",
+    "static/js/main.eb03f2db.js"
   ]
 }
