@@ -56,7 +56,7 @@ export const Menu = styled.ul`
       top: 70px;
       left: ${({ open }) => (open ? "0" : "-100%")}; //Import
       width: 100%;
-      height: 50vh;
+      height: 90vh;
       justify-content: center;
       flex-direction: column;
       align-items: center;
@@ -168,7 +168,7 @@ export const MobileIcon = styled.div`
 
       svg{
          fill: #e07924;
-         margin-rigth: 0.5rem; 
+         margin-rigth: 0.4rem; 
       }
    }
 `;
