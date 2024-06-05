@@ -25,7 +25,7 @@ export const LogoContainer = styled.div`
    margin-top:8px;
    display: flex;
    align-items: center;
-   font-size: 1.9rem;
+   font-size: 1.2rem;
    font-bold;
    font-family: Poppins;
    color: #ff6d00;
@@ -34,7 +34,7 @@ export const LogoContainer = styled.div`
       &:nth-child(2){
          margin-left: 1rem;
          font-family:"Poppins";
-         font-size: 1.2rem;
+         font-size: 1rem;
          font-weight: 500;
          color: #00c6c5;
       }
@@ -92,8 +92,7 @@ export const MenuItemLink = styled.a`
 
    &:hover{
       color:#fff;
-      background-color:#e0792a;
-      transition:0.5 all ease;
+      transition:0.8 all ease;
 
       div {
          svg {
@@ -112,7 +111,7 @@ export const MenuItemLink = styled.a`
       svg {
         display: none;
         fill: #e0792a;
-        margin-right: 0.5rem;
+        margin-right: 0.4rem;
       }
    }
 

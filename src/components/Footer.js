@@ -8,22 +8,25 @@ const Footer = () => {
   return <footer className='bg-gray-900 text-white' id='Seccion4'>
     <div className='md:flex md:justify-between md: items-center sm:px-12 px-4 bg-[#ffffff19] py-7'>
       <h1 className='lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold md:w-2/5'><span className='text-teal-400 mr-3'>SpeedWeb</span>Te gustaria empezar un proyecto con nosotros?</h1>
-      <div>
+      <div className='grid grid-cols-1 md:grid-cols-2'>
         <h1 className='text-teal-400 text-3xl font-semibold sm:w-72 w-full sm:mr-5 mr-1 lg:mb-0 mb-4 py-2.5 rounded px-2 focus:outline-none'>Contactame Ya..</h1>
-        <button className=" duration-300 px-5 py-2.5 font-[Poppins] rounded-md text-white md:w-auto w-full">
-        <a href="https://wa.me/542984417477?text=Hola quiero un presupuesto " target="_blank">  
-        <img src={whatsap} alt="what" width="50px" height="50px" />
-        </a>
-        </button>
+        <button className="inline-block font-semibold tracking-wide border-none justify-center text-center bg-[#ffffff19] hover:text-[#ffffff19] duration-300 px-3 py-2 font-[Poppins] rounded-xl md:rounded-md text-white w-full md:w-auto">
+    <a href="https://wa.me/542984417477?text=Hola quiero un presupuesto " target="_blank" className="flex items-center justify-center space-x-2">
+        <img src={whatsap} alt="what" width="30px" height="30px" className='flex-shrink-0'/>
+        <span className='text-xs md:text-base'>Quiero hacer una consulta</span>
+    </a>
+</button>
       </div>
     </div>
     <ItemsContainer />
-    <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 text-center pt-2 text-gray-400 text-sm pb-8 '>
-      <span>@ 2023 Developers Web Luis E. diaz</span>
-      <span>SpeedWeb</span>
+    <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 text-center file:mx-auto pt-2 text-gray-400 text-sm pb-8 '>
+      <span>Developers Web Diaz L. & Centenaro K.</span>
+      <span>@2024 SpeedWeb</span>
       <SocialIcons Icons={Icons}/>
-      <button className='grid grid-cols-1'>
-      <a className='text-center text-teal-400 font-semibold text-2xl hover:text-teal-600' href='#Seccion1'>HOME</a>
+    </div>
+      <div>
+      <button className='flex text-center justify-center mx-auto'>
+      <a className='text-teal-400 font-semibold text-2xl hover:text-teal-600 mb-10' href='#Seccion1'>HOME</a>
       </button>
       </div>
   </footer>
