@@ -4,12 +4,13 @@ import Hero from '../src/components/Hero';
 import Slider from './components/Slider';
 import Proyects from './components/Proyects';
 import Footer from './components/Footer';
+import Home from './components/Home';
 
 function App() {
   return (
     <>
     <Navbar />
-    <Hero />
+    <Home />
     <Slider />
     <Proyects />
     <Footer />
