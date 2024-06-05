@@ -10,10 +10,10 @@ const Footer = () => {
       <h1 className='lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold md:w-2/5'><span className='text-teal-400 mr-3'>SpeedWeb</span>Te gustaria empezar un proyecto con nosotros?</h1>
       <div className='grid grid-cols-1 md:grid-cols-2'>
         <h1 className='text-teal-400 text-3xl font-semibold sm:w-72 w-full sm:mr-5 mr-1 lg:mb-0 mb-4 py-2.5 rounded px-2 focus:outline-none'>Contactame Ya..</h1>
-        <button className="inline-block font-semibold tracking-wide border-none justify-center text-center bg-[#ffffff19] hover:text-[#ffffff19] duration-300 px-3 py-2 font-[Poppins] rounded-xl md:rounded-md text-white w-full md:w-auto">
+        <button className="inline-block font-semibold tracking-wide border-none justify-center text-center bg-[#ffffff19] hover:text-[#ffffff19] duration-300 px-3 py-2 font-[Poppins] rounded-xl md:rounded-md  md: text-white w-full md:w-auto">
     <a href="https://wa.me/542984417477?text=Hola quiero un presupuesto " target="_blank" className="flex items-center justify-center space-x-2">
         <img src={whatsap} alt="what" width="30px" height="30px" className='flex-shrink-0'/>
-        <span className='text-xs md:text-base'>Quiero hacer una consulta</span>
+        <span className='font-bold sm:text-xs md:text-base'>Quiero hacer una consulta</span>
     </a>
 </button>
       </div>
