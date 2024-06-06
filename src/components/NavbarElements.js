@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
    width:100%;
-   height:80px;
+   height:70px;
    background-color:#23394d;
 
 `;
@@ -22,7 +22,7 @@ export const Wraper = styled.div`
 export const LogoContainer = styled.div`
    margin-left :0.5rem;
    margin-rigth: 0.5rem;
-   margin-top:8px;
+   margin-top:16px;
    display: flex;
    align-items: center;
    font-size: 1.2rem;
