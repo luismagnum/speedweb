@@ -20,7 +20,7 @@ const Footer = () => {
     </div>
     <ItemsContainer />
     <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 text-center file:mx-auto pt-2 text-gray-400 text-sm pb-8 '>
-      <span className='text-base'>Developers Web Diaz L. & Centenaro K.</span>
+      <span className='text-base'>Developer Web Luis E. Diaz</span>
       <span className='text-base'>@2024 SpeedWeb</span>
       <SocialIcons Icons={Icons}/>
     </div>
