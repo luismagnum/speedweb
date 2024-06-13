@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/speedweb/static/css/main.ce26ffb2.css",
-    "main.js": "/speedweb/static/js/main.d084d1b9.js",
+    "main.js": "/speedweb/static/js/main.fb903a1b.js",
     "static/media/quese.png": "/speedweb/static/media/quese.2bbc8ab3375ad7c3660a.png",
     "static/media/sabor.png": "/speedweb/static/media/sabor.aa7cc8ec2db4029a7b6b.png",
     "static/media/logospeed.png": "/speedweb/static/media/logospeed.d6b5e4ddbab2dd19d411.png",
@@ -9,10 +9,10 @@
     "static/media/whatsapp-fill.svg": "/speedweb/static/media/whatsapp-fill.f7f284344fbf9e0713346e6fec82fa29.svg",
     "index.html": "/speedweb/index.html",
     "main.ce26ffb2.css.map": "/speedweb/static/css/main.ce26ffb2.css.map",
-    "main.d084d1b9.js.map": "/speedweb/static/js/main.d084d1b9.js.map"
+    "main.fb903a1b.js.map": "/speedweb/static/js/main.fb903a1b.js.map"
   },
   "entrypoints": [
     "static/css/main.ce26ffb2.css",
-    "static/js/main.d084d1b9.js"
+    "static/js/main.fb903a1b.js"
   ]
 }
