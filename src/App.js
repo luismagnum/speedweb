@@ -2,8 +2,8 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from '../src/components/Hero';
 import Slider from './components/Slider';
-import Proyects from './components/Proyects';
 import Footer from './components/Footer';
+import Projeto from './components/Projeto';
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
     <Navbar />
     <Hero />
     <Slider />
-    <Proyects />
+    <Projeto />
     <Footer />
     </>
     
