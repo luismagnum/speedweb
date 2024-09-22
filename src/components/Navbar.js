@@ -51,7 +51,7 @@ const Navbar = () => {
               <div>
               <FaBriefcase /> 
               <button>
-              < a href='#Seccion3'>CLIENTES</a>
+              < a href='#Seccion3'>PROYECTOS</a>
               </button>
               </div>
               </MenuItemLink>

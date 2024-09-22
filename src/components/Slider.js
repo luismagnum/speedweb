@@ -10,8 +10,11 @@ import 'swiper/css/pagination';
 
 const Slider = () => {
   return (
-    <div className='bg-[#00052a] text-white flex items-center justify-center' id='Seccion2'>
+    <div className='text-white flex items-center justify-center' id='Seccion2'>
       <div className='text-white max-w-5xl w-full px-4'>
+      <section className="flex items-center justify-center">
+        <h2 className="text-white text-2xl font-extrabold mt-8 mb-8">TE OFRECEMOS</h2>
+      </section>
         <Swiper
           modules={[Navigation, Pagination]}
           spaceBetween={20}
