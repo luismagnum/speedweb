@@ -65,7 +65,7 @@ const Planes = () => {
                     <path d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z" fill="currentColor"></path>
                   </svg>
                 </span>
-                <span>Botón <strong className="font-semibold text-gray-800"> de Whatsapp</strong></span>
+                <span>Integracion <strong className="font-semibold text-gray-800"> con Whatsapp</strong></span>
               </li>
               <li className="flex items-center space-x-2">
                 <span className="flex items-center justify-center w-5 h-5 bg-teal-500 text-white rounded-full">
@@ -74,7 +74,7 @@ const Planes = () => {
                     <path d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z" fill="currentColor"></path>
                   </svg>
                 </span>
-                <span>Botón de Redes Sociales</span>
+                <span>Integracion con Redes Sociales</span>
               </li>
             </ul>
             <div className="w-full flex justify-end mt-6">
