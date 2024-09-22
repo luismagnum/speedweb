@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/speedweb/static/css/main.dffeac9e.css",
-    "main.js": "/speedweb/static/js/main.c232f3c5.js",
+    "main.js": "/speedweb/static/js/main.810569d0.js",
     "static/media/dulces.png": "/speedweb/static/media/dulces.8ecd6dd8020d8fa7b56f.png",
     "static/media/imgte.png": "/speedweb/static/media/imgte.9da9d974cda5560d0fbb.png",
     "static/media/sabor.png": "/speedweb/static/media/sabor.4ac267f76b853e24fe4b.png",
@@ -10,10 +10,10 @@
     "static/media/whatsapp-fill.svg": "/speedweb/static/media/whatsapp-fill.f7f284344fbf9e0713346e6fec82fa29.svg",
     "index.html": "/speedweb/index.html",
     "main.dffeac9e.css.map": "/speedweb/static/css/main.dffeac9e.css.map",
-    "main.c232f3c5.js.map": "/speedweb/static/js/main.c232f3c5.js.map"
+    "main.810569d0.js.map": "/speedweb/static/js/main.810569d0.js.map"
   },
   "entrypoints": [
     "static/css/main.dffeac9e.css",
-    "static/js/main.c232f3c5.js"
+    "static/js/main.810569d0.js"
   ]
 }
