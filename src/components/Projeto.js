@@ -4,6 +4,7 @@ import sab from '../assets/imagenes/sabor.png';
 import deliver from '../assets/imagenes/deliver.png';
 import teq from '../assets/imagenes/imgte.png';
 import are from '../assets/imagenes/arepas.png';
+import imaga from '../assets/imagenes/imaga.png';
 
 export default function Projeto() {
   const proyectos = [
@@ -12,7 +13,7 @@ export default function Projeto() {
       img: are,
       titulo: "Comida",
       descripcion: "Venta de comida venezolana online, en donde el cliente puede escojer su comida preferida y encargar mediante un boton de whatsapp, para luego ser enviada a su casa.",
-      link: "https://luismagnum.github.io/gemini/",
+      link: "https://luismagnum.github.io/arepas/",
     },
     {
       id: 2,
@@ -41,6 +42,13 @@ export default function Projeto() {
       titulo: "Comida",
       descripcion: "En esta pagina encontraras nuestros ricos platos autoctonos de Venezuela y en los que podras seleccionar el de tu preferencia para luego en la comodidad de tu hagar hacer el pedido y enviartelo a tu hogar.",
       link: "https://luismagnum.github.io/reactnav/",
+    },
+    {
+      id: 6,
+      img: imaga,
+      titulo: "Barberia",
+      descripcion: "Esta pagina esta diseñada para una barberia de caballeros, en donde puedes ver tipos de corte y los servicios que ofrecemos y en donde puedes solicitar un turno solo con presionar un boton de whatsaap.",
+      link: "https://luismagnum.github.io/colo/",
     },
   ];
 
